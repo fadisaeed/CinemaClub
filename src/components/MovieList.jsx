@@ -9,6 +9,7 @@ function MovieList() {
         year={2010}
         rating={8.8}
         genre={"Sci-Fi"}
+        duration={120}
         available={true}
         popular={true}
       />
@@ -17,6 +18,7 @@ function MovieList() {
         year={1995}
         rating={8.3}
         genre={"Animation"}
+        duration={180}
         available={false}
         popular={false}
       />
@@ -25,6 +27,7 @@ function MovieList() {
         year={2019}
         rating={8.5}
         genre={"Drama"}
+        duration={160}
         available={true}
         popular={false}
       />
